@@ -5,7 +5,7 @@
 ## Featured Projects
 
 ### 1. Breast Cancer Equity Analysis ✨ **(LATEST)**
-[![Breast Cancer Insights]
+[![Breast Cancer Insights](https://via.placeholder.com/800x400/FF6B6B/FFFFFF?text=Breast+Cancer+Equity)](breast-cancer-equity-analysis.ipynb)
 
 **Key Findings:**
 - West region: Young patient hotspot
