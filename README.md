@@ -4,7 +4,7 @@
 
 ## Featured Projects
 
-### 1. Breast Cancer Equity Analysis ✨ **(LATEST)**
+### 1. Breast Cancer Equity Analysis **(LATEST)**
 
 **Key Findings:**
 - West region: Young patient hotspot
