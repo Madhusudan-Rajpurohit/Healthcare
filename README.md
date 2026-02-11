@@ -1,6 +1,6 @@
 # Healthcare Data Analytics Portfolio
 
-**Real-world healthcare insights using Python, Pandas & Seaborn**
+**Real-world healthcare insights using Python, Numpy, Pandas, Matplotlib & Seaborn**
 
 ## Featured Projects
 
